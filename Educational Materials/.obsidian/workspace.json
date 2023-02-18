@@ -4,15 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "54942d84a618cd27",
+        "id": "15f4c1f45439170e",
         "type": "tabs",
         "children": [
           {
-            "id": "83b30b40b3515afd",
+            "id": "4a2cbc3c8442c414",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Пар Прог/18.02.23.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -65,7 +69,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "eb3f33813a755a67",
@@ -81,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Пар Прог/18.02.23.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Пар Прог/18.02.23.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Пар Прог/18.02.23.md"
+              }
             }
           }
         ]
@@ -138,17 +147,17 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "a05d7be1e65a2bea",
+  "active": "4a2cbc3c8442c414",
   "lastOpenFiles": [
-    "Пар Прог/ПП (л) 10.02.23.md",
-    "Пар Прог/Прак 10.02.23.md",
-    "Выч методы/Прак 10.02.23.md",
-    "Выч методы/Лекция 10.09.23.md",
-    "Выч методы/Лаб 11.02.23.md",
-    "Матлогика/Лекция 11.02.23.md",
-    "Java/Лекция 2 11.02.23.md",
-    "Java/Лекция 11.02.23.md",
-    "ПП/ПП (л) 10.02.23.md",
-    "Pasted image 20230210092622.png"
+    "Java/18.02.23 Лекция.md",
+    "Java/11.02.23 Лекция 2.md",
+    "Java/11.02.23 Лекция 1.md",
+    "Пар Прог/10.02.23 Практика.md",
+    "Пар Прог/10.02.23 Лекция.md",
+    "Матлогика/18.02.23 Лекция.md",
+    "Матлогика/11.02.23 Лекция.md",
+    "Пар Прог/17.02.23 Лекция.md",
+    "Выч методы/17.02.23 Лекция.md",
+    "Выч методы/17.02.23 Практика.md"
   ]
 }
